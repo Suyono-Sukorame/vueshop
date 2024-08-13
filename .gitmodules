@@ -1,0 +1,6 @@
+[submodule "vueshop-server"]
+	path = vueshop-server
+	url = https://github.com/Suyono-Sukorame/vueshop-server.git
+[submodule "vuestore-client"]
+	path = vuestore-client
+	url = https://github.com/Suyono-Sukorame/vuestore-client.git
